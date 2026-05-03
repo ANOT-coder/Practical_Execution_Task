@@ -1,10 +1,5 @@
 # Practical Execution Task (AI/ML)
 
-**Duration:** 3 hours (2:00 PM – 5:00 PM)  
-**Prepared By:** JobAxle  
-
----
-
 ## 📌 Overview
 This project demonstrates a complete machine learning workflow applied to housing price prediction. The dataset contains housing attributes such as **area (sqft), bedrooms, bathrooms, year built, location, and garage availability**, with the target variable being **price**. The goal was to clean and analyze the dataset, train multiple models, evaluate their performance, and select the most suitable approach for real-world application.
 
